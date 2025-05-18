@@ -1,1 +1,2 @@
 This is my first CLI file
+Hello, Git and GitHub!
